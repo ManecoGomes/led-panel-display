@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none">
+  <!-- OLX logo with purple color -->
+  <defs>
+    <linearGradient id="olxGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6E0AD6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B2FCB;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- OLX text -->
+  <text x="10" y="45" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#olxGradient)">OLX</text>
+</svg>
